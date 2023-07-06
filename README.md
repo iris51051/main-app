@@ -28,3 +28,9 @@ npm i echarts-for-react
 엑셀 다운로드
 
 npm install xlsx
+
+npm install antd highcharts-react-official xlsx
+npm i echarts-for-react
+npm i --save @fortawesome/free-solid-svg-icons
+npm i --save @fortawesome/free-regular-svg-icons
+npm i --save @fortawesome/react-fontawesome@latest
